@@ -45,6 +45,6 @@ To run Vulecc, you should pass your client ID to the Vulecc CLI. To do this, log
 | target        | The target URL of your website for the vulnerability scan.                                                 |
 | bundle        | The file path for the bundle package, which defaults to 'vulecc.bin'.                                      |
 | scripts       | List of individual script names to run (e.g: `./bundler/Community/sql_injection.lua`)                      |
-| group         | Script group name which contains multiple script name (e.g: datastores, accesscontrol etc.)                |
+| attack-name   | Script group name which contains multiple script name (e.g: datastores, accesscontrol etc.)                |
 | client-id     | Validation of your license is accomplished using the client ID value.                                      |
 | parallel      | The parallel value is used to enhance the speed of Dynascan by increasing the count of parallel instances. |
