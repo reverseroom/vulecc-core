@@ -1,6 +1,4 @@
 ## VULECC
-VULECC is the pioneer in Next-Generation Web Application Vulnerability Scanning technology, enabling businesses to proactively probe their web assets to identify and combat the most intricate vulnerabilities.
-
 VULECC is at the forefront of Next-Generation Web Vulnerability Scanning technology. Designed to facilitate proactive security, it enables organizations to rigorously scrutinize their web technologies and identify even the most sophisticated vulnerabilities. VULECC's advanced algorithms simulate real-world attack scenarios, providing a comprehensive insight into potential security loopholes that may be exploited by cybercriminals.
 
 <p align="center">
