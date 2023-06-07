@@ -3,9 +3,9 @@ VULECC is the pioneer in Next-Generation Web Application Vulnerability Scanning 
 
 VULECC is at the forefront of Next-Generation Web Vulnerability Scanning technology. Designed to facilitate proactive security, it enables organizations to rigorously scrutinize their web technologies and identify even the most sophisticated vulnerabilities. VULECC's advanced algorithms simulate real-world attack scenarios, providing a comprehensive insight into potential security loopholes that may be exploited by cybercriminals.
 
-</br>
-<center><img src="https://i.imgur.com/jzGqt6G.png" width="300" /></center>
-</br>
+<p align="center">
+<img src="https://i.imgur.com/jzGqt6G.png" width="300" />
+</p>
 
 VULECC navigates the complex landscape of web technologies - from legacy HTML websites to cutting-edge JavaScript applications, content management systems, and APIs. It's adept at detecting a wide range of web-specific vulnerabilities, including SQL Injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), and various other OWASP Top 10 security risks. This makes VULECC an all-encompassing security solution for web applications.
 
