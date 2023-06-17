@@ -1,4 +1,3 @@
-# Introduction 
 <p align="center">
 <img src="https://i.imgur.com/jzGqt6G.png" width="300" />
 </p>
