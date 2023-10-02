@@ -1,7 +1,9 @@
-<p align="center">
-<img src="https://i.imgur.com/jzGqt6G.png" width="300" />
-<a href="https://img.shields.io/badge/Rust-v1.72.1-blue">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/jzGqt6G.png" width="300" /></td>
+    <td><img src="https://img.shields.io/badge/Rust-v1.72.1-blue"></td>
+  </tr>
+</table>
 
 VULECC is a leading Next-Generation Web Vulnerability Scanning solution. It empowers organizations to proactively assess web technologies, uncover complex vulnerabilities, and mitigate cyber threats. With advanced algorithms, VULECC simulates real-world attack scenarios, offering comprehensive insights into potential security loopholes.
 
